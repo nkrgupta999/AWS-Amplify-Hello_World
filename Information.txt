@@ -1,0 +1,10 @@
+1: --------------SaaS deployment using AWS Amplify--------------
+AWS Amplify is a set of tools and services that help you build scalable mobile and web applications.
+Deploy sample application (hello world) on that platform - 
+Capabilities:-
+
+2: Why this issue to fixed / feature is needed(give scenarios or use cases):
+
+3: How to reproduce, in case of a bug
+
+4: Other Notes / Environment Information: (Please give the env information, log link or any useful information for this issue)
