@@ -3,7 +3,7 @@
     -It provides a simple way to add authentication, data storage, and other features to your application
 
 # Deploy sample application (hello world) on that platform 
-    -Using Vite Library and react framework in GitHub repository (https://github.com/nkrgupta999/AWS-Amplify-Hello_World)[https://github.com/nkrgupta999/AWS-Amplify-Hello_World]
+    -Using Vite Library and react framework in this GitHub repository
 
 # Capabilities:-
                 - Continuous deployment
