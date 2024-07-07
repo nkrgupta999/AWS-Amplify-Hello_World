@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hello World from Caze Labs with AWS Amplify</h1>
+    <h1>Hello World from Caze Labs with Nitin AWS Amplify</h1>
   );
 }
 
