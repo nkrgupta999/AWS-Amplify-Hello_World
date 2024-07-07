@@ -1,9 +1,23 @@
 1: --------------SaaS deployment using AWS Amplify--------------
-AWS Amplify is a set of tools and services that help you build scalable mobile and web applications.
-Deploy sample application (hello world) on that platform - 
-Capabilities:-
+    -AWS Amplify is a set of tools and services that help you build scalable mobile and web applications.
+    -It provides a simple way to add authentication, data storage, and other features to your application
+
+# Deploy sample application (hello world) on that platform 
+    -Using Vite Library and react framework in GitHub repository (https://github.com/nkrgupta999/AWS-Amplify-Hello_World)
+
+# Capabilities:-
+                - Continuous deployment
+                - Hosting
+                - Monitoring
+                - Scalability
+                - Authnetication and authorization
 
 2: Why this issue to fixed / feature is needed(give scenarios or use cases):
+    - To deploy sample application on AWS Amplify platform because to learn about AWS Amplify platform, capabilities, features, services, tools, benefits.
+
+    - 1st Scenario: You're launching a new SaaS product and need a scalable, secure, and easily deployable platform to handle user sign-ups and authentication.
+
+    - 2nd Scenario: You're updating your existing SaaS platform and want to automate the deployment process to ensure faster time-to-market for new features.
 
 3: How to reproduce, in case of a bug
 
