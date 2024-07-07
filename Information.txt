@@ -3,7 +3,8 @@
     -It provides a simple way to add authentication, data storage, and other features to your application
 
 # Deploy sample application (hello world) on that platform 
-    -Using Vite Library and React framework in this GitHub repository (https://github.com/nkrgupta999/AWS-Amplify-Hello_World)
+    -Using React framework in this GitHub repository (https://github.com/nkrgupta999/AWS-Amplify-Hello_World)
+    -Output (https://main.d3rw2ztg6t0wzx.amplifyapp.com/)
 
 # Capabilities:-
                 - Continuous deployment
@@ -20,6 +21,14 @@
     - 2nd Scenario: You're updating your existing SaaS platform and want to automate the deployment process to ensure faster time-to-market for new features.
 
 3: How to reproduce, in case of a bug
-    --------------Error--------------
+    - 1st step: Clone the repository
+    - 2nd step: Install the dependencies (npm install)
+    - 3rd step: Run the application (npm start)
+    -4th step: Make some changes relevant to the application
+    -5th step: Commit the changes (git commit -m "message")
+    -6th step: Push the changes (git push)
+
+
 4: Other Notes / Environment Information: (Please give the env information, log link or any useful information for this issue)
-    --------------Error--------------
+    - If we use a dependent tools or software then we need to declare environmental variables in the project
+
