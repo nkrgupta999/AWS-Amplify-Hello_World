@@ -1,10 +1,10 @@
 # Hello World with AWS Amplify
 
-This project demonstrates a simple "Hello World" application built with Vite and React, and deployed using AWS Amplify.
+This project demonstrates a simple "Hello World" application built with React, and deployed using AWS Amplify.
 
 
 ## Introduction
-This is a basic React application created using Vite as the build tool. The application displays "Hello World" on the screen and is deployed on AWS Amplify.
+This is a basic React application created using react as the build tool. The application displays "Hello World" on the screen and is deployed on AWS Amplify.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ This is a basic React application created using Vite as the build tool. The appl
     or
    npm run dev
    ```
-This will start the Vite development server and you can view the application at http://localhost:3000.
+This will start the development server and you can view the application at http://localhost:3000.
    
 
 
